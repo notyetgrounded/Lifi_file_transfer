@@ -1,0 +1,6 @@
+llllllllllllllIn this project, we are using UART protocol 
+With bit length 8 
+With a baud rate of 2500 
+And a bit time of 400 microseconds 
+A led is connected to the transmitter esp32 to transmit light pulses
+An analog ambient light sensor and SD card is connected to the receiver esp32 to read light intensity and save the received data
